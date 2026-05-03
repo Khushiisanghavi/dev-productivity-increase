@@ -65,20 +65,18 @@ The goal of this project is to:
 
 ---
 
-## 🏗️ Architecture
-project/
-│
-├── backend/
-│ └── main.py
-│
-├── frontend/
-│ └── app.py
-│
-├── data/
-│ └── mock_data.json
-│
-└── README.md
+## Project Structure
 
+```
+Architecture project/
+├── backend/
+│   └── main.py
+├── frontend/
+│   └── app.py
+├── data/
+│   └── mock_data.json
+└── README.md
+```
 ---
 
 ## ⚙️ Setup & Run
