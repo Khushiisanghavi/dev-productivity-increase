@@ -76,7 +76,7 @@ Architecture project/
 ├── data/
 │   └── mock_data.json
 └── README.md
-```
+
 ---
 
 ## ⚙️ Setup & Run
