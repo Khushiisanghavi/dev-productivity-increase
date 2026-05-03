@@ -79,9 +79,10 @@ Architecture project/
 ```
 ---
 
-## ⚙️ Setup & Run
+## User Journey
+https://miro.com/app/board/uXjVHZf8fjA=/?share_link_id=837465344218
 
-### 1. Install dependencies
+## ⚙️ Setup & Run
 
 ```bash
 pip install fastapi uvicorn streamlit requests pandas
